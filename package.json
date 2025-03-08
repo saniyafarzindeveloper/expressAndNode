@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "main": "app.js",
+  "name": "backend",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  }
+}
